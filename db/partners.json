@@ -9,15 +9,6 @@
     "products": "pizza-plus.json"
   },
   {
-    "name": "Тануки",
-    "time_of_delivery": 60,
-    "stars": 4.3,
-    "price": 1200,
-    "kitchen": "Суши, роллы",
-    "image": "img/tanuki/preview.jpg",
-    "products": "tanuki.json"
-  },
-  {
     "name": "FoodBand",
     "time_of_delivery": 40,
     "stars": 4.4,
